@@ -1,8 +1,22 @@
-# installed npm dependencies
+# npm, yarn
 node_modules/
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# IDE
+.idea
+.vscode
+.vscode-test
 
 # runtime
 dist/
+__input/
+__output/
+__saved/
+__tmp/
 
 # file system
 ./**/.DS_Store
