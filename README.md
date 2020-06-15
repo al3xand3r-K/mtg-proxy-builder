@@ -1,6 +1,6 @@
 ## MTG Proxy Builder
 
-A tool for building ready-to-print spreadsheets of MTG cards proxies.
+A tool for building ready-to-print spreadsheets of MTG cards proxies. Based on Scryfall API.
 
 (A russian version of README is [here](./README__russian.md))
 
