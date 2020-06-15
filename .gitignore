@@ -1,0 +1,9 @@
+# installed npm dependencies
+node_modules/
+
+# runtime
+dist/
+
+# file system
+./**/.DS_Store
+.DS_Store

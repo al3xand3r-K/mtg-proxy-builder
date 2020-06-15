@@ -1,0 +1,8 @@
+{
+  "cardlist_name": "cardlist.txt",
+  "spreadsheet_name": "__print",
+  "imgs_per_row": 3,
+  "rows_per_sheet": 3,
+  "pixels_between_imgs": 5,
+  "print_flipsides_separately": true
+}
